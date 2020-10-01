@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=iamspd2&color=green)
+
 - 📫 How to reach me: [here](http://iamspd2.github.io)
 <!--
 **iamspd2/iamspd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
