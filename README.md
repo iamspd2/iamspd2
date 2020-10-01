@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></p> 
 
-<img align="left" alt="Swaraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&hide_border=true&theme=synthwave" />
-
+![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&theme=dark)
