@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=iamspd2&color=green)
+![](https://komarev.com/ghpvc/?username=iamspd2&color=brightgreen)
 
 - 📫 How to reach me: [here](http://iamspd2.github.io)
 <!--
