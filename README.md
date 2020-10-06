@@ -2,23 +2,27 @@
 
 ![](https://komarev.com/ghpvc/?username=iamspd2&color=brightgreen)
 
-- 📫 How to reach me: [here](http://iamspd2.github.io)
-<!--
-**iamspd2/iamspd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Gamer and Explorer!
+- 🔭 I’m currently working on **JARVIS - a Windows assistant**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React** along with **Deep Learning**
+- 👯 I’m currently unavailable for collaborations but always up for something exciting!
+- 💬 Ask me about my projects, new ideas, help, suggestions, anything!
+- 📫 How to reach me: Visit my website to know more
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I am a football fanatic!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
 
-<!-- in your body -->
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
 <p align="left">
   <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
@@ -30,3 +34,9 @@ Here are some ideas to get you started:
 </p> 
 
 ![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&theme=yeblu)
+
+[website]: https://iamspd2.github.io/
+[twitter]: https://twitter.com/swalaxh
+[instagram]: https://instagram.com/swaraj2
+[linkedin]: https://www.linkedin.com/in/theswaraj
+
