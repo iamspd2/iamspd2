@@ -4,11 +4,17 @@
 
 ## Developer, Traveler, Dreamer!
 - 🔭 I’m currently working on **JARVIS - a Windows assistant**
+
 - 🌱 I’m currently learning **React** along with **Deep Learning**
+
 - 👯 I’m currently unavailable for collaborations but always up for something exciting!
+
 - 💬 Ask me about my projects, new ideas, help, suggestions, anything!
-- 📫 How to reach me: Visit my website to know more
-- 🥅 2020 Goals: Contribute more to Open Source projects
+
+- 📌 Check Out my Website <a href = "http://iamspd2.github.io/">here</a>
+
+- 📫 Reach me <a href="mailto: swarajdash40@gmail.com">here</a>
+
 - ⚡ Fun fact: I am a football fanatic!
 
 ### Connect with me:
