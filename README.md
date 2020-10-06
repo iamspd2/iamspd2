@@ -1,10 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
 
 ![](https://komarev.com/ghpvc/?username=iamspd2&color=brightgreen)
 
-## I'm a Developer, Gamer and Explorer!
+## Developer, Traveler, Dreamer!
 - 🔭 I’m currently working on **JARVIS - a Windows assistant**
-
 - 🌱 I’m currently learning **React** along with **Deep Learning**
 - 👯 I’m currently unavailable for collaborations but always up for something exciting!
 - 💬 Ask me about my projects, new ideas, help, suggestions, anything!
