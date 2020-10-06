@@ -11,7 +11,7 @@
 
 - 💬 Ask me about my projects, new ideas, help, suggestions, anything!
 
-- 📌 Check Out my Website <a href = "http://iamspd2.github.io/">here</a>
+- 📌 Check out my website <a href = "http://iamspd2.github.io/">here</a>!
 
 - 📫 Reach me <a href="mailto: swarajdash40@gmail.com">here</a>
 
