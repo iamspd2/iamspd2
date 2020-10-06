@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- in your body -->
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="c" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
