@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
+<h1 align="center">Hi there 👋, I'm Swaraj Dash</h1>
 
 ![](https://komarev.com/ghpvc/?username=iamspd2&color=brightgreen)
 
