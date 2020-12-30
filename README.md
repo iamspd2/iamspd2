@@ -5,15 +5,15 @@
 ## Developer, Traveler, Dreamer!
 - 🔭 I’m currently working on **JARVIS - a Windows assistant**
 
-- 🌱 I’m currently learning **React** along with **Deep Learning**
+- 🌱 I’m currently learning **React** 
 
-- 👯 I’m currently unavailable for collaborations but always up for something exciting!
+- 👯 I’m currently available for collaborations. Always up for something exciting!
 
-- 💬 Ask me about my projects, new ideas, help, suggestions, anything!
+- 💬 Ask me about my projects, help, suggestions, anything!
 
 - 📌 Check out my website <a href = "http://iamspd2.github.io/">here</a>!
 
-- 📫 Reach me <a href="mailto: swarajdash40@gmail.com">here</a>
+- 📫 Reach out to me <a href="mailto: swarajdash40@gmail.com">here</a>
 
 - ⚡ Fun fact: I am a football fanatic!
 
