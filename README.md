@@ -29,13 +29,13 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" alt="android" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+  <img src="https://image.flaticon.com/icons/png/512/180/180867.png" alt="python" width="30" height="30"/>
+  <img src="" alt="java" width="30" height="30"/>
+  <img src="" alt="android" width="30" height="30"/>
+  <img src="" alt="html5" width="30" height="30"/>
+  <img src="" alt="javascript" width="30" height="30"/>
+  <img src="" alt="react" width="30" height="30"/>
+  <img src="" alt="git" width="30" height="30"/>
 </p> 
 
 ![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&theme=yeblu)
