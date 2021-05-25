@@ -23,6 +23,8 @@
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
+[<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/552/552486.png" />][mail]
+
 
 <br />
 
@@ -44,4 +46,4 @@
 [twitter]: https://twitter.com/swalaxh
 [instagram]: https://instagram.com/swaraj2
 [linkedin]: https://www.linkedin.com/in/theswaraj
-
+[mail]: mailto:swarajdash40@gmail.com
