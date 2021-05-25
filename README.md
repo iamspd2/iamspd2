@@ -20,8 +20,8 @@
 ### Connect with me:
 
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />][website]
-[<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
 [<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/3617/3617143.png" />][mail]
 
