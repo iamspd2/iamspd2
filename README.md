@@ -5,11 +5,11 @@
 ## Developer, Traveler, Dreamer!
 - 🔭 I’m currently working on **JARVIS - a Windows assistant**
 
-- 🌱 I’m currently learning **React** 
+- 🌱 I’m currently learning **DevOps** 
 
-- 👯 I’m currently available for collaborations. Always up for something exciting!
+- 👯 I’m currently unavailable for collaborations. But do hit me up if you've got something exciting!
 
-- 💬 Ask me about my projects, help, suggestions, anything!
+- 💬 Ask me about my projects, help, ideas, anything!
 
 - 📌 Check out my website <a href = "http://iamspd2.github.io/">here</a>!
 
