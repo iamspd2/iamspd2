@@ -35,7 +35,7 @@
   <img src="https://image.flaticon.com/icons/png/512/888/888859.png" alt="html5" width="40" height="40"/>
   <img src="https://image.flaticon.com/icons/png/512/136/136530.png" alt="javascript" width="40" height="40"/>
   <img src="https://image.flaticon.com/icons/png/512/1183/1183621.png" alt="react" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111605.png" alt="git" width="40" height="40"/>
+  <img src="https://image.flaticon.com/icons/png/512/2111/2111288.png" alt="git" width="40" height="40"/>
 </p> 
 
 ![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&theme=yeblu)
