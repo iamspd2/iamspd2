@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamspd2&color=brightgreen)
 
-## Developer, Traveler, Dreamer!
+## Developer, Learner, Dreamer!
 - 🔭 I’m currently working on **JARVIS - a Windows assistant**
 
 - 🌱 I’m currently learning **DevOps** 
