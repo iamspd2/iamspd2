@@ -29,8 +29,8 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://image.flaticon.com/icons/png/512/180/180867.png" alt="python" width="30" height="30"/>
-  <img src="" alt="java" width="30" height="30"/>
+  <img src="https://image.flaticon.com/icons/png/512/180/180867.png" alt="python" width="40" height="40"/>
+  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40"/>
   <img src="" alt="android" width="30" height="30"/>
   <img src="" alt="html5" width="30" height="30"/>
   <img src="" alt="javascript" width="30" height="30"/>
