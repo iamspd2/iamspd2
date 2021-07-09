@@ -3,15 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=iamspd2&color=brightgreen)
 
 ## Developer, Learner, Dreamer!
-- 🔭 I’m currently working on **JARVIS - a Windows assistant**
-
+<!-- - 🔭 I’m currently working on **JARVIS - a Windows assistant** -->
 - 🌱 I’m currently learning **DevOps** 
 
 - 👯 I’m currently unavailable for collaborations. But do hit me up if you've got something exciting!
 
 - 💬 Ask me about my projects, help, ideas, anything!
 
-- 📌 Check out my website <a href = "http://iamspd2.github.io/">here</a>!
+- 📌 Check out my website <a href = "https://swaraj.ninja/">here</a>!
 
 - 📫 Reach out to me <a href="mailto: swarajdash40@gmail.com">here</a>
 
@@ -42,7 +41,7 @@
 
 ![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&theme=yeblu)
 
-[website]: https://iamspd2.github.io/
+[website]: https://swaraj.ninja
 [twitter]: https://twitter.com/swalaxh
 [instagram]: https://instagram.com/swaraj2
 [linkedin]: https://www.linkedin.com/in/theswaraj
