@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="30px" src="https://img.icons8.com/plasticine/100/undefined/domain.png" />][website]
+[<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/globe-earth.png" />][website]
 [<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/linkedin.png" />][linkedin]
 [<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/twitter.png" />][twitter]
 [<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />][instagram]
@@ -30,13 +30,11 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://image.flaticon.com/icons/png/512/180/180867.png" alt="python" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/882/882710.png" alt="android" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/888/888859.png" alt="html5" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/136/136530.png" alt="javascript" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/1183/1183621.png" alt="react" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111288.png" alt="git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
+  <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="spring-boot" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/react-native.png" alt="react" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/git.png" alt="git" width="40" height="40"/>
 </p> 
 
 ![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=iamspd2&show_icons=true&theme=yeblu)
