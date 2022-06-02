@@ -10,7 +10,7 @@
 
 - 💬 Ask me about my projects, help, ideas, anything!
 
-- 📌 Check out my website <a href = "https://swarajdash.com/">here</a>!
+- 📌 Check out my website <a target="_blank" href = "https://swarajdash.com/">here</a>!
 
 - 📫 Reach out to me <a href="mailto: swarajdash40@gmail.com">here</a>
 
