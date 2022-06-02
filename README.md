@@ -18,11 +18,11 @@
 
 ### Connect with me:
 
-[<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />][website]
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/undefined/linkedin.png" />][linkedin]
+[<img align="left" width="30px" src="https://img.icons8.com/plasticine/100/undefined/domain.png" />][website]
+[<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/linkedin.png" />][linkedin]
 [<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/twitter.png" />][twitter]
-[<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
-[<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/3617/3617143.png" />][mail]
+[<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />][instagram]
+[<img align="left" width="30px" src="https://img.icons8.com/fluency/48/undefined/gmail-new.png" />][mail]
 
 
 <br />
