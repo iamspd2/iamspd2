@@ -12,7 +12,7 @@
 
 - 📌 Check out my website <a href = "https://swarajdash.com/">here</a>!
 
-- 📫 Reach out to me <a href="mailto: swarajdash40@gmail.com">here</a>
+- 📫 Mail me <a href="mailto: swarajdash40@gmail.com">here</a>
 
 - ⚡ Fun fact: I am a sports fanatic!
 
