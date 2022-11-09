@@ -6,15 +6,15 @@
 <!-- - 🔭 I’m currently working on **JARVIS - a Windows assistant** -->
 - 🌱 I’m currently learning **Backend Development** 
 
-- 👯 I’m currently unavailable for collaborations. But do hit me up if you've got something exciting!
+- 👯 Always available for collaborations. Hit me up if you're up to something exciting!
 
-- 💬 Ask me about my projects, help, ideas, anything!
+- 💬 Ask me for help, about my projects, ideas or anything!
 
 - 📌 Check out my website <a href = "https://swarajdash.com/">here</a>!
 
 - 📫 Reach out to me <a href="mailto: swarajdash40@gmail.com">here</a>
 
-- ⚡ Fun fact: I am a football fanatic!
+- ⚡ Fun fact: I am a sports fanatic!
 
 ### Connect with me:
 
